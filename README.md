@@ -53,8 +53,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/snake-rejaul123.svg" alt="Snake animation" />
-
-###
+![snake gif](https://github.com/rejaul123/rejaul123/blob/output/github-snake-dark.svg)
