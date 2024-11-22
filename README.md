@@ -34,7 +34,7 @@
 ###
 
 <div align="left">
-  <a href="t.me/rejaulrafi" target="_blank">
+  <a href="https://t.me/rejaulrafi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
   </a>
   <a href="https://www.youtube.com/@rafitechnicalstudio893" target="_blank">
